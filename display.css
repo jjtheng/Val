@@ -1,0 +1,32 @@
+body {
+    background-image: url(20210213_173253.jpg);
+    background-attachment: fixed;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: right top, left bottom;
+    background-repeat: no-repeat;
+  }
+
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+  
+  <img src="20210213_173253.jpg" alt="Paris">
+  h1 {
+    color: grey;
+  }
+  h2 {
+    color: grey;
+  }
+  h4 {
+    color: grey;
+  }
+  p {
+   
+    font-size: 140px;
+    color: rgb(58, 53, 26);
+  }
+ 
